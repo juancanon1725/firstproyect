@@ -1,0 +1,43 @@
+@options
+@packages
+--class-path
+'C:/Users/juan.poveda-ca/Downloads/firstproyect/target/classes'
+-encoding
+'Cp1252'
+-protected
+-sourcepath
+'C:/Users/juan.poveda-ca/Downloads/firstproyect/src/main/java;C:/Users/juan.poveda-ca/Downloads/firstproyect/target/generated-sources/annotations'
+-author
+-bottom
+'Copyright &#169; 2024. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/juan.poveda-ca/Downloads/firstproyect/target/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'mi-primera-app 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'mi-primera-app 1.0-SNAPSHOT API'
+edu.escuelaing.arsw.ASE.app
+C:\Users\juan.poveda-ca\Downloads\firstproyect\src\main\java = 1718122743478
+C:\Users\juan.poveda-ca\Downloads\firstproyect\target\generated-sources\annotations = 1718122846007
+C:\Users\juan.poveda-ca\Downloads\firstproyect\target\apidocs\allclasses-index.html = 1718124194766
+C:\Users\juan.poveda-ca\Downloads\firstproyect\target\apidocs\allpackages-index.html = 1718124194769
+C:\Users\juan.poveda-ca\Downloads\firstproyect\target\apidocs\element-list = 1718124194709
+C:\Users\juan.poveda-ca\Downloads\firstproyect\target\apidocs\help-doc.html = 1718124194799
+C:\Users\juan.poveda-ca\Downloads\firstproyect\target\apidocs\index-all.html = 1718124194790
+C:\Users\juan.poveda-ca\Downloads\firstproyect\target\apidocs\index.html = 1718124194792
+C:\Users\juan.poveda-ca\Downloads\firstproyect\target\apidocs\jquery-ui.overrides.css = 1718124194817
+C:\Users\juan.poveda-ca\Downloads\firstproyect\target\apidocs\member-search-index.js = 1718124194775
+C:\Users\juan.poveda-ca\Downloads\firstproyect\target\apidocs\module-search-index.js = 1718124194771
+C:\Users\juan.poveda-ca\Downloads\firstproyect\target\apidocs\overview-tree.html = 1718124194751
+C:\Users\juan.poveda-ca\Downloads\firstproyect\target\apidocs\package-search-index.js = 1718124194773
+C:\Users\juan.poveda-ca\Downloads\firstproyect\target\apidocs\script.js = 1718124194805
+C:\Users\juan.poveda-ca\Downloads\firstproyect\target\apidocs\search.js = 1718124194808
+C:\Users\juan.poveda-ca\Downloads\firstproyect\target\apidocs\stylesheet.css = 1718124194803
+C:\Users\juan.poveda-ca\Downloads\firstproyect\target\apidocs\tag-search-index.js = 1718124194776
+C:\Users\juan.poveda-ca\Downloads\firstproyect\target\apidocs\type-search-index.js = 1718124194774
