@@ -26,9 +26,10 @@ mvn archetype:generate -DgroupId=edu.escuelaing.arsw.ASE.app -DartifactId=firstp
 
 End with an example of getting some data out of the system or using it for a little demo
 
-## Running the tests
+![image](https://github.com/juancanon1725/firstproyect/assets/98672541/b3766ed9-1857-4929-9174-dfb886b88b01)
 
-Explain how to run the automated tests for this system
+
+![image](https://github.com/juancanon1725/firstproyect/assets/98672541/3e4d87ab-76e3-403a-922f-c5719b9e4dbb)
 
 ### Break down into end to end tests
 
