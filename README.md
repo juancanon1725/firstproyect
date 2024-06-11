@@ -39,6 +39,9 @@ Explain what these tests test and why
 Give an example
 ```
 
+![image](https://github.com/juancanon1725/firstproyect/assets/98672541/f54e3d1e-01c2-46f3-9315-f9c21d154a61)
+
+
 ### And coding style tests
 
 Explain what these tests test and why
