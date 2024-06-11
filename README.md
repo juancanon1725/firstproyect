@@ -1,6 +1,6 @@
-# Project Title
+# First Project
 
-One Paragraph of project description goes here
+Introducción a Maven, GIT, GitHub.
 
 ## Getting Started
 
@@ -16,19 +16,13 @@ Give examples
 
 ### Installing
 
-A step by step series of examples that tell you how to get a development env running
-
-Say what the step will be
+Para crear el proyecto maven se usa el siguiente comando:
 
 ```
-Give the example
+mvn archetype:generate -DgroupId=edu.escuelaing.arsw.ASE.app -DartifactId=firstproyect -DarchetypeArtifactId=maven-archetype-quickstart -DinteractiveMode=false
 ```
 
-And repeat
-
-```
-until finished
-```
+![mvn_create](https://github.com/juancanon1725/firstproyect/assets/98672541/966a3cb0-eb91-48a8-ab75-c85bf0f02ac7)
 
 End with an example of getting some data out of the system or using it for a little demo
 
