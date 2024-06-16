@@ -27,11 +27,18 @@ mvn archetype:generate -DgroupId=edu.escuelaing.arsw.ASE.app -DartifactId=firstp
 
 ### Ejecución
 
+Para ejecutar el proyecto utilizamos el comando:
+
+```
+java -cp target/firrstproyect-1.0-SNAPSHOT.jar edu.escuelaing.arsw.ASE.app.App
+```
+
 ![image](https://github.com/juancanon1725/firstproyect/assets/98672541/b3766ed9-1857-4929-9174-dfb886b88b01)
 
 
 ![image](https://github.com/juancanon1725/firstproyect/assets/98672541/3e4d87ab-76e3-403a-922f-c5719b9e4dbb)
 
+# POM actualizado
 
 ![image](https://github.com/juancanon1725/firstproyect/assets/98672541/f54e3d1e-01c2-46f3-9315-f9c21d154a61)
 
