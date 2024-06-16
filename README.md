@@ -1,3 +1,7 @@
+## Authors
+
+Juan Pablo Poveda Cañon
+
 # First Project
 
 Introducción a Maven, GIT, GitHub.
@@ -8,11 +12,8 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Prerequisites
 
-What things you need to install the software and how to install them
-
-```
-Give examples
-```
+Maven: Automatiza y estandariza el flujo de vida de la construcción de software
+Git: Administrador descentralizado de configuraciones
 
 ### Installing
 
@@ -31,34 +32,9 @@ End with an example of getting some data out of the system or using it for a lit
 
 ![image](https://github.com/juancanon1725/firstproyect/assets/98672541/3e4d87ab-76e3-403a-922f-c5719b9e4dbb)
 
-### Break down into end to end tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
 
 ![image](https://github.com/juancanon1725/firstproyect/assets/98672541/f54e3d1e-01c2-46f3-9315-f9c21d154a61)
 
-
-### And coding style tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-## Deployment
-
-Add additional notes about how to deploy this on a live system
-
-## Built With
-
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
 
 ## Contributing
 
@@ -68,18 +44,7 @@ Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c6
 
 We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
 
-## Authors
-
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
-
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
-
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
 
-## Acknowledgments
-
-* Hat tip to anyone whose code was used
-* Inspiration
-* etc
